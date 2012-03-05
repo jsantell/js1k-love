@@ -16,7 +16,7 @@
   function gradientFn() {
       ctx.font= (rn(50)+100)+"px Futura, Helvetica, sans-serif";
       ctx.globalCompositeOperation = 'source-over';
-      ctx.fillText(text[c3++%4], rn(x/2)+400, rn(y/2)+500);
+      ctx.fillText(text[c3++%3], rn(x/2)+400, rn(y/2)+500);
   };
 
   (function draw() {
