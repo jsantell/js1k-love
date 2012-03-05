@@ -1,0 +1,8 @@
+{
+    "JAVASCRIPT" : {
+        "DIST_DIR" : "./",
+        "js1k-love" : [
+            "./js1k-love.js"
+        ]
+    }
+}
